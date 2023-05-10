@@ -14,7 +14,7 @@ export default function Footer() {
           
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm text-center">&copy; TheMonacleGroup.com. All rights reserved.</div>
+            <div className="text-gray-400 text-sm text-center">&copy; MonocleGroup.com. All rights reserved.</div>
         </div>
       </div>
     </footer>

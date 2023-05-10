@@ -9,7 +9,7 @@ export default function Header() {
       <div className="grid w-screen place-items-center">
           {/* Site branding */}
             {/* Logo */}
-            <Link href="/" className="block" aria-label="The Monacle Group">
+            <Link href="/" className="block" aria-label="The Monocle Group">
               <Image src={Logo} alt="Logo" width={224} height={224} />
             </Link>
 

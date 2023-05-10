@@ -27,7 +27,7 @@ export default function Hero() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
           <div className="inline-flex text-md font-semibold py-2 px-12 m-8 text-blue-600 bg-gray-200 rounded-full mb-6">Coming Soon</div>
-            <h1 className="h1 mb-4" data-aos="fade-up">The Monacle Group</h1>
+            <h1 className="h1 mb-4" data-aos="fade-up">The Monocle Group</h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
               Discover the Uncommon: We'll find your next collectable
             </p>
