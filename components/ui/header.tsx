@@ -6,6 +6,9 @@ import Logo from '@/public/images/logo-notext.png'
 export default function Header() {
   return (
     <header className="absolute w-full px-2">
+      
+      <meta name="wb:op" content="b612fe8f1171a86b3866875f1d5bd94b"/>
+
       <div className="grid w-screen place-items-center">
           {/* Site branding */}
             {/* Logo */}
