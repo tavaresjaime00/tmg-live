@@ -40,6 +40,7 @@ export default function Hero() {
               </div>
             </div> */}
           </div>
+          <div className="inline-flex text-md font-semibold py-2 px-12 m-8 text-blue-600 bg-gray-400 rounded-full mb-6"><a href="mailto:info@monoclegroup.com">INFO@MONOCLEGROUP.COM</a></div>
 
           {/* <ModalVideo
             thumb={VideoThumb}
