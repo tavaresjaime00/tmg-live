@@ -39,7 +39,7 @@ export default function Hero() {
                 <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
               </div>
             </div> */}
-          <div className="inline-flex text-md font-semibold py-2 px-12 m-8 text-blue-600 bg-gray-100 rounded-full mb-6"><a href="mailto:info@monoclegroup.com">INFO@MONOCLEGROUP.COM</a></div>
+          <div className="inline-flex text-md font-semibold py-2 px-12 m-8 text-blue-600 bg-gray-200 rounded-full mb-6"><a href="mailto:info@monoclegroup.com">info@monoclegroup.com</a></div>
 
           </div>
 
